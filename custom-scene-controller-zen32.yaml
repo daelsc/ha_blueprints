@@ -205,7 +205,7 @@ blueprint:
       default: []
       selector:
         action: {}
-  source_url: https://github.com/daelsc/ha_blueprints/blob/main/custom-scene-controller-zen32.yaml
+#  source_url: https://github.com/daelsc/ha_blueprints/blob/main/custom-scene-controller-zen32.yaml
 mode: single
 max_exceeded: silent
 variables:
