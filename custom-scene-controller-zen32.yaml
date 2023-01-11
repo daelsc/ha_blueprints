@@ -1,6 +1,6 @@
 blueprint:
-  name: ZEN32 (Z-Wave JS) DAELSC
-  description: Create automations for the Zooz ZEN32 switch using the Z-Wave JS integration.
+  name: ZEN32 Custom Scene Controller
+  description: ZEN32 Custom Scene Controller.
   domain: automation
   input:
     zooz_switch:
@@ -205,7 +205,7 @@ blueprint:
       default: []
       selector:
         action: {}
-  source_url: https://community.home-assistant.io/t/zen32-scene-controller-z-wave-js/292610
+  source_url: 
 mode: single
 max_exceeded: silent
 variables:
